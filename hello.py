@@ -1,5 +1,5 @@
 # Testing Git
-print("Testing Git")
+print("Testing Git and its branches")
 print("pulling works")
 hello = "world"
 
