@@ -3,4 +3,7 @@ print("Testing Git")
 print("pulling works")
 hello = "world"
 
-print("hello world")
+def hello():
+    print("hello, world")
+
+hello()
